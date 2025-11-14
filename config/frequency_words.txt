@@ -1,13 +1,13 @@
 ai
+deepseek
+chatgpt
+
 blockchain
 web3
 programing
-
 区块链
 高新科技
 数字货币
-digit coin
-
-编程
-金融
 defi
+tech
+
